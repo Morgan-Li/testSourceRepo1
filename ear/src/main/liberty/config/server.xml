@@ -12,6 +12,7 @@
     <httpEndpoint host="*" httpPort="${http.port}"
         httpsPort="${https.port}" id="defaultHttpEndpoint" />
 
+    <!-- meow -->
     <!-- tag::EARdefinition[] -->
     <enterpriseApplication id="guide-maven-multimodules-ear"
         location="guide-maven-multimodules-ear.ear"
