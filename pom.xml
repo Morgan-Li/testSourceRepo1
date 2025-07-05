@@ -6,6 +6,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+    
     <!-- tag::packaging[] -->
     <!-- tag::groupId[] -->
     <groupId>io.openliberty.guides</groupId>
